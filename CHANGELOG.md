@@ -4,6 +4,15 @@ Padrão: `V.1.XX.Y`
 - **Y ≠ 0** = versão de conferência/visualização (não vai para o GitHub). Ex.: V.1.03.1
 - **Y = 0** = versão com zip para subir no GitHub. Ex.: V.1.03.0
 
+## V.1.04.0
+- Imagens separadas do HTML: pasta `assets/img/` (20 arquivos .webp). O `index.html` caiu de ~3 MB para ~70 KB; a página carrega mais rápido.
+- Busca (Google): título e descrição com palavras-chave, `canonical`, `robots.txt`, `sitemap.xml` e dados estruturados (JSON-LD) com os 7 aplicativos.
+- Redes sociais: imagem de capa 1200x630 (`assets/og-image.jpg`) e etiquetas Open Graph/Twitter para WhatsApp, Facebook, Instagram e TikTok.
+- Ícones do site: `favicon.svg`, `favicon-32.png` e `apple-touch-icon.png`.
+- Botão "Compartilhar no WhatsApp" em cada aplicativo.
+- Síndico e Zelador: seção no mesmo modelo do Dia do Evento (foto de condomínio + 2 telas), com etiquetas e 3 números.
+- Link do Síndico e Zelador: https://sindicoezelador.com.br/
+
 ## V.1.03.0
 - Topo da página: tela do Lens Core Studio substituída por leque de 5 celulares (VetFlowCare, Cor Sync Imóveis, AttimoDrive, Dia do Evento, Síndico e Zelador).
 - Cor Sync Imóveis: novo celular (lista de imóveis) no topo e na seção do app.
