@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://celso1701.github.io/nexo-app-system/sitemap.xml
+Sitemap: https://nexoappsystem.com.br/sitemap.xml
