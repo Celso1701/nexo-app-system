@@ -4,6 +4,10 @@ Padrão: `V.1.XX.Y`
 - **Y ≠ 0** = versão de conferência/visualização (não vai para o GitHub). Ex.: V.1.03.1
 - **Y = 0** = versão com zip para subir no GitHub. Ex.: V.1.03.0
 
+## V.1.06.0
+- Imagem de compartilhamento (`assets/og-image.jpg`) refeita: o VetFlowCare agora aparece em destaque, na frente e maior; todos os celulares inteiros, sem corte.
+- Nome da marca padronizado: NAS · Nexo App System / nexoappsystem.com.br / #NexoAppSystem.
+
 ## V.1.05.0
 - Domínio próprio: https://nexoappsystem.com.br/ (canonical, Open Graph, dados estruturados, sitemap.xml e robots.txt atualizados). Arquivo `CNAME` incluído.
 - Barra de apps: Meu Terreiro App agora mostra "Supervisão e controle de gestão do terreiro".
